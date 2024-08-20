@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+ .circle {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            background: lightgray;
+            display: inline-block;
+            margin: 5px;
+        }
+        .active {
+            background: green;
+        }
+        #prev {
+            margin-right: 10px;
+        }
